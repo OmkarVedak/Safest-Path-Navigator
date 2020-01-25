@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Safest Path</string>
+
+    <string name="your_location">Your location</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="place_address">%1$s, %2$s</string>
+    <string name="geo_time_default">Location: N/A</string>
+    <string name="geo_time">Location: %1$s</string>
+
+    <!-- Preference Titles -->
+    <string name="maps_header">Maps</string>
+    <string name="notification_header">Notification</string>
+
+    <!-- Maps settings -->
+    <string name="maps_traffic">Enable Traffic</string>
+
+    <!-- Notification settings -->
+    <string name="notification_safety">Unsafe locations</string>
+    <string name="notification_safety_summary">Notify nearby unsafe paths based on current location</string>
+    <string name="login">Login</string>
+    <string name="debug">Browse past crimes</string>
+    <string name="logout">Logout</string>
+    <string name="btnReportCrime">Submit Report</string>
+    <string name="crime_type">Crime type</string>
+    <string name="select_crime_type">Select crime type</string>
+    <string name="location">Location</string>
+    <string name="select_location">Select location</string>
+    <string name="title_activity_browse_crime">Browse Crimes</string>
+    <string name="maps_crime">Show nearby crimes</string>
+
+</resources>
