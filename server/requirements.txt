@@ -144,7 +144,7 @@ pycrypto==2.6.1
 pycurl==7.43.0.2
 pyfcm==1.4.7
 pyflakes==1.6.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.4.2
 pylint==1.8.2
 pymdown-extensions==6.0
